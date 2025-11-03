@@ -12,10 +12,10 @@ This dashboard helps management identify top-performing categories, optimize out
 
 ### ⚙️ Tech Stack
 The dashboard was built using the following tools and technologies:
-- 📊 **Power BI Desktop** – Main data visualization platform used for report creation.  
-- ⚙️ **Power Query** – Data transformation and cleaning layer for reshaping and preparing the data.  
-- 🧮 **DAX (Data Analysis Expressions)** – Used for calculated measures, dynamic visuals, and conditional logic.  
-- 🧠 **Data Modeling** – Relationships established among tables (Outlets, Items, Sales) to enable cross-filtering and aggregation.  
+- **Power BI Desktop** – Main data visualization platform used for report creation.  
+- **Power Query** – Data transformation and cleaning layer for reshaping and preparing the data.  
+- **DAX (Data Analysis Expressions)** – Used for calculated measures, dynamic visuals, and conditional logic.  
+- **Data Modeling** – Relationships established among tables (Outlets, Items, Sales) to enable cross-filtering and aggregation.  
 - 📁 **File Format** – `.pbix` for dashboard development and `.png` for report preview.
 
 
@@ -60,9 +60,9 @@ Breaks down sales between *Low Fat* and *Regular* products, highlighting top cat
 
 **4. Outlet Size Performance (Donut Chart)**  
 Shows sales distribution by size:  
-- 🟢 **Medium:** ₹507.9K  
-- 🟡 **High:** ₹444.8K  
-- 🟠 **Small:** ₹249.0K  
+- **Medium:** ₹507.9K  
+- **High:** ₹444.8K  
+- **Small:** ₹249.0K  
 
 
 **5. Outlet Location Analysis (Bar Chart)**  
@@ -71,17 +71,17 @@ Tier 3 outlets lead with ₹472.1K in sales, followed by Tier 2 (₹393.2K) and 
 
 **6. Outlet Type Summary (Matrix Visual)**  
 Summarizes total sales, item counts, ratings, and visibility:  
-- 🏪 **Supermarket Type 1:** ₹787.5K (Top performer)  
-- 🛒 **Grocery Store:** ₹151.9K  
-- 🏬 **Supermarket Type 2:** ₹131.5K  
-- 🏬 **Supermarket Type 3:** ₹130.7K  
+-  **Supermarket Type 1:** ₹787.5K (Top performer)  
+-  **Grocery Store:** ₹151.9K  
+-  **Supermarket Type 2:** ₹131.5K  
+-  **Supermarket Type 3:** ₹130.7K  
 
 
 ### 💡 Business Impact & Insights
-- 📈 **Performance Optimization:** Identify high-performing outlets and underperforming regions.  
-- 🏪 **Regional Strategy:** Tier 3 outlets show strongest sales potential for expansion.  
-- 🍎 **Product Insights:** Low-fat and snack items generate significant revenue.  
-- ⚖️ **Operational Efficiency:** Medium-sized outlets offer optimal performance balance.  
+- **Performance Optimization:** Identify high-performing outlets and underperforming regions.  
+- **Regional Strategy:** Tier 3 outlets show strongest sales potential for expansion.  
+- **Product Insights:** Low-fat and snack items generate significant revenue.  
+- **Operational Efficiency:** Medium-sized outlets offer optimal performance balance.  
 
 
 ### 🖼️ Dashboard Preview
